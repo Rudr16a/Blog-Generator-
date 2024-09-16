@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain_groq
+langchain_community
+flask
+streamlit
+plotly
+networkx
+textblob
