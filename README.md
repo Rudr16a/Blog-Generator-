@@ -72,10 +72,6 @@ Deployment Link: https://blogforge-ai.streamlit.app/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions, feel free to reach out:
-
-- **Your Name**: [siddhverma2003@gmail.com](mailto:siddhverma2003@gmailcom)
 
 
